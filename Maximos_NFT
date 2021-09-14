@@ -1,0 +1,9 @@
+{
+    "project": "Maximos_NFT",
+    "policies": [
+        "policy1",
+        "policy2",
+         "policy3"
+        
+    ]
+}
